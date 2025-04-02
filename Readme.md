@@ -14,4 +14,4 @@ ls -lhrt *.png *.csv
 
 ### https://perplexity.ai
 
-This project was 100% created with perplexity.ai, at a cost of many attempts to explain and fix issues during the process. it does not produce proper values nor a proper graph; however, it was the closest to a working state as i was bale to get with strict A.I.
+This project was 100% created with perplexity.ai, at a cost of many attempts to explain and fix issues during the process. it does not produce proper values nor a proper graph; however, it was the closest to a working state as i was able to get with strict A.I.
